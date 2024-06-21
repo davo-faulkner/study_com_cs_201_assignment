@@ -1,7 +1,8 @@
 /** AUTHOR: David Faulkner
  *  CREATED: 18 June 2024
  *  MODIFIED: 20 June 2024
- *  This file can also be downloaded as a complete IntelliJ project at .
+ *  This file can also be downloaded as a complete IntelliJ project at
+ *  https://github.com/davo-faulkner/study_com_cs_201_assignment.
  *  Note that the TreeMap warning exists because the specifications never
  *  required anything to be done with the TreeMap, only that it is used to
  *  sort the HashMap which is done automatically with the `putAll()` method.
